@@ -209,7 +209,7 @@
     "typescript": "^5.7.2",
     "vite": "^7.0.5",
     "vite-tsconfig-paths": "^6.1.1",
-    "vitest": "^4.1.4",
+    "vitest": "^4.1.10",
     "wait-for-expect": "^3.0.2"
   },
   "ct3aMetadata": {
